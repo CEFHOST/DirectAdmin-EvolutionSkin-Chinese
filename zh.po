@@ -3190,7 +3190,7 @@ msgstr "关于DirectAdmin"
 
 #: src/js/components/global/app/app-footer.vue:25
 msgid "DirectAdmin Web Control Panel © %{ year } JBMC Software"
-msgstr "JBMC Software © %{ year } 梦飞科技 最新汉化DirectAdmin"
+msgstr "JBMC Software © %{ year } CEFHOST 优易主机 DirectAdmin"
 
 #: src/js/pages/admin/system-backup.vue:16
 #: src/js/pages/admin/system-backup.vue:191
