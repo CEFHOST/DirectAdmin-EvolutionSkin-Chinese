@@ -1,7 +1,7 @@
 # DirectAdmin-EvolutionSkin-Chinese
-DirectAdmin Evolution Skin Chinese PO pack by mfisp.com
+DirectAdmin Evolution Skin Chinese PO pack by cefhost.cn
 
-这是DirectAdmin的Evolution风格的汉化版，梦飞fly兼职制作，免费使用
+这是DirectAdmin的Evolution风格的汉化版
 
 
 使用方法：
